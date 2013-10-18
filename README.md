@@ -6,7 +6,7 @@
 
 Var með Ubuntu þegar uppsett á [Parallels](http://www.parallels.com/).
 
-![Skjá mynd](/ubuntu.tiff)
+![Skjá mynd](/ubuntu.png)
 
 ## 2. Uppsetning á vim && git
 
