@@ -1,24 +1,28 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+1. [Ragnar Þór Valgeirsson](https://github.com/rthor)
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Var með Ubuntu þegar uppsett á [Parallels](http://www.parallels.com/).
+
+![Skjá mynd](/ubuntu.tiff)
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Þetta var einnig þegar uppsett - er ekki nýliði í git og vim.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Ég er vanur gittari og þetta tók mig enga stund né fyrirhöfn.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Forkið mitt má finna hér: [github.com/rthor/INTOPrufa](https://github.com/rthor/INTOPrufa).
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+- [is.js (rthor)](https://github.com/rthor/isjs) - Hugbúnaður eftir sjálfann mig. License: MIT.
+- [Brackets (Adobe)](https://github.com/adobe/brackets) - License: MIT.
+- [Node.js (joyent)](https://github.com/joyent/node) - License: [Custom license](https://github.com/joyent/node/blob/master/LICENSE).
 
 ## 5. Unnið með Git (2. hluti)
 
