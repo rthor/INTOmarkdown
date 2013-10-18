@@ -4,8 +4,6 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 ## 1. Linux uppsetning
 
-![Texti sem kemur sem Tooltip yfir mynd](http://i.imgur.com/v1taBgc.jpg)
-
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 ## 2. Uppsetning á vim && git
